@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+.item {
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  min-width: 80px;
+  max-width: 120px;
+}
